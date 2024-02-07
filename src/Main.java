@@ -16,7 +16,7 @@ public class Main {
         newStudents.add(new Student("Jacopo Segre", 26));
         newStudents.add(new Student("Fabio Lucioni", 36));
         newStudents.add(new Student("Francesco Di Mariano", 27));
-        newStudents.add(new Student("Leonardo Mancuaso", 31));
+        newStudents.add(new Student("Leonardo Mancuso", 31));
 
         System.out.println("lista studenti aggiornata: " + newStudents);
 
